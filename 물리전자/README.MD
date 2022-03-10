@@ -3,6 +3,7 @@
 - periodic structure
   - crystalline
     - lattice
+      - 2D
       - 3D
         - ~ 
         - cubic
