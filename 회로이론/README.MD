@@ -1,4 +1,4 @@
-### define
+### basic concept
   - a single electron charge = -1.602*10^-19C
   - in 1C of charge, 6.24*10^18 electrons
   - I, current
@@ -13,6 +13,6 @@
   - P, power
 
     ![image](https://user-images.githubusercontent.com/90690557/157681599-babc862f-b681-4f81-9092-e6d684b199cb.png)
-  - W, work
+  - E, energy
 
     ![image](https://user-images.githubusercontent.com/90690557/157681885-68e32f8c-14c2-4cf5-80bd-3837e9536625.png)
