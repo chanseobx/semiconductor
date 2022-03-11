@@ -22,8 +22,15 @@
   - branch represents a single element such as a voltage source or a resistor
   - node isthe point of connection between two or more branches
   - loop is any closed path in a circuit
+  
 ### basic law
   - ohm's law
   - kirchhoff's law
     - kirchhoff's current law
     - kirchhoff's voltage law
+
+### connect
+  - series
+  - parallel
+  - Y network
+  - delta network  
