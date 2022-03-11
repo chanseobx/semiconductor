@@ -15,4 +15,15 @@
     ![image](https://user-images.githubusercontent.com/90690557/157681599-babc862f-b681-4f81-9092-e6d684b199cb.png)
   - E, energy
 
-    ![image](https://user-images.githubusercontent.com/90690557/157681885-68e32f8c-14c2-4cf5-80bd-3837e9536625.png)
+    ![image](https://user-images.githubusercontent.com/90690557/157773857-b68dfa30-5023-4260-b9ac-9c15e47bced9.png)
+
+  - R, resistance
+  - G, conductance
+  - branch represents a single element such as a voltage source or a resistor
+  - node isthe point of connection between two or more branches
+  - loop is any closed path in a circuit
+### basic law
+  - ohm's law
+  - kirchhoff's law
+    - kirchhoff's current law
+    - kirchhoff's voltage law
